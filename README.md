@@ -29,7 +29,7 @@ deadline.
 | S.No. | Desc              | Timestamp           |
 |-------|-------------------|---------------------|
 | 1.    | Submission Starts | 07-01-2025 0800 IST |
-| 2.    | Submission Ends   | 13-01-2025 0500 IST |
+| 2.    | Submission Ends   | 20-01-2025 0500 IST |
 
 ### Getting started ###
 
