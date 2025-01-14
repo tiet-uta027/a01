@@ -1,0 +1,76 @@
+S.No.,Statement,Predicate
+1,"If the bread is stale, make toast.",is_stale?(bread) IMPL make?(toast)
+2,"If the weather is nice, let's go hiking.",is_stale?(bread) IMPL make?(toast)
+3,"If the bell rings, answer the door.",is_stale?(bread) IMPL make?(toast)
+4,"If the car won't start, call a mechanic.",is_stale?(bread) IMPL make?(toast)
+5,"If the phone rings, could you answer it?",is_stale?(bread) IMPL make?(toast)
+6,"If I had wings, I would fly.",is_stale?(bread) IMPL make?(toast)
+7,"If we leave now, we'll catch the train.",is_stale?(bread) IMPL make?(toast)
+8,"If you need directions, use a map.",is_stale?(bread) IMPL make?(toast)
+9,"If you study hard, you'll pass the test.",is_stale?(bread) IMPL make?(toast)
+10,"If you're worried, talk to someone.",is_stale?(bread) IMPL make?(toast)
+11,"If you're tired, take a nap.",is_stale?(bread) IMPL make?(toast)
+12,"If the music is too loud, turn it down.",is_stale?(bread) IMPL make?(toast)
+13,"If the toast burns, make more.",is_stale?(bread) IMPL make?(toast)
+14,"If you mix blue and yellow, you get green.",is_stale?(bread) IMPL make?(toast)
+15,"If you're excited, share the news.",is_stale?(bread) IMPL make?(toast)
+16,"If you're resourceful, find solutions.",is_stale?(bread) IMPL make?(toast)
+17,"If the chair squeaks, fix it.",is_stale?(bread) IMPL make?(toast)
+18,"If the milk smells bad, throw it out.",is_stale?(bread) IMPL make?(toast)
+19,"If you're lost, ask for help.",is_stale?(bread) IMPL make?(toast)
+20,"If you're late, apologize.",is_stale?(bread) IMPL make?(toast)
+21,"If the wind blows, close the windows.",is_stale?(bread) IMPL make?(toast)
+22,"If you're lonely, call a friend.",is_stale?(bread) IMPL make?(toast)
+23,"If you want to succeed, work hard.",is_stale?(bread) IMPL make?(toast)
+24,"If the road floods, find another route.",is_stale?(bread) IMPL make?(toast)
+25,"If the snow falls, shovel the path.",is_stale?(bread) IMPL make?(toast)
+26,"If you're productive, manage time.",is_stale?(bread) IMPL make?(toast)
+27,"If you see a shooting star, make a wish.",is_stale?(bread) IMPL make?(toast)
+28,"If you finish first, help others.",is_stale?(bread) IMPL make?(toast)
+29,"If the sweater shrinks, donate it.",is_stale?(bread) IMPL make?(toast)
+30,"If the ice cream melts, put it back.",
+31,"If you're honest, tell the truth.",
+32,"If the bird sings, listen carefully.",
+33,"If you're proud, celebrate.",
+34,"If the storm comes, stay inside.",
+35,"If you're wise, learn from mistakes.",
+36,"If winter comes, spring can't be far behind.",
+37,"If you're careful, avoid mistakes.",
+38,"If you're kind, help others.",
+39,"If the paper tears, tape it.",
+40,"If the food is hot, let it cool.",
+41,"If you're early, wait outside.",
+42,"If you're creative, make something.",
+43,"If you're ready, let's begin.",
+44,"If you're determined, keep trying.",
+45,"If you're reliable, keep promises.",
+46,"If you're happy, smile.",
+47,"If you're confident, take the lead.",
+48,"If the cake is ready, take it out of the oven.",
+49,"If you eat too much sugar, you'll get a toothache.",
+50,"If the door squeaks, oil the hinges.",
+51,"If the dog barks, check who's there.",
+52,"If you're stressed, take deep breaths.",
+53,"If I had more time, I would learn to play piano.",
+54,"If the light bulb burns out, replace it.",
+55,"If the sink leaks, call a plumber.",
+56,"If the leaves fall, rake them.",
+57,"If you're dedicated, work consistently.",
+58,"If the flower wilts, water it.",
+59,"If you're responsible, fulfill duties.",
+60,"If you smell gas, open the windows.",
+61,"If you're energetic, exercise.",
+62,"If the sky is dark, take an umbrella.",
+63,"If the water boils, add the pasta.",
+64,"If you hear thunder, come inside.",
+65,"If you feel sick, stay home.",
+66,"If the baby cries, check on them.",
+67,"If you're lucky, appreciate it.",
+68,"If the plant looks dry, water it.",
+69,"If you're generous, share freely.",
+70,"If you're interested, learn more.",
+71,"If you break something, please tell me.",
+72,"If the door is locked, use your key.",
+73,"If you're confused, ask questions.",
+74,"If the pencil breaks, sharpen it.",
+75,"If you're stuck, ask for guidance.",
