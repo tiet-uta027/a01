@@ -1,8 +1,8 @@
 S.No.,Statement,Predicate
 1,"If the bread is stale, make toast.",is_stale?(bread) IMPL make?(toast)
 2,"If the weather is nice, let's go hiking.",is_nice?(weather) IMPL go_hike?(us)
-3,"If the bell rings, answer the door.",is_stale?(bread) IMPL make?(toast)
-4,"If the car won't start, call a mechanic.",is_stale?(bread) IMPL make?(toast)
+3,"If the bell rings, answer the door.",is_nice?(weather) IMPL go_hike?(us)
+4,"If the car won't start, call a mechanic.",is_nice?(weather) IMPL go_hike?(us)
 5,"If the phone rings, could you answer it?",is_stale?(bread) IMPL make?(toast)
 6,"If I had wings, I would fly.",is_stale?(bread) IMPL make?(toast)
 7,"If we leave now, we'll catch the train.",is_stale?(bread) IMPL make?(toast)
