@@ -1,76 +1,76 @@
 S.No.,Statement,Predicate
-1,"If the bread is stale, make toast.",is_stale?(bread) IMPL make?(toast)
-2,"If the weather is nice, let's go hiking.",is_nice?(weather) IMPL go_hike?(us)
-3,"If the bell rings, answer the door.",is_nice?(weather) IMPL go_hike?(us)
-4,"If the car won't start, call a mechanic.",is_nice?(weather) IMPL go_hike?(us)
-5,"If the phone rings, could you answer it?",is_stale?(bread) IMPL make?(toast)
-6,"If I had wings, I would fly.",is_stale?(bread) IMPL make?(toast)
-7,"If we leave now, we'll catch the train.",is_stale?(bread) IMPL make?(toast)
-8,"If you need directions, use a map.",is_stale?(bread) IMPL make?(toast)
-9,"If you study hard, you'll pass the test.",is_stale?(bread) IMPL make?(toast)
-10,"If you're worried, talk to someone.",is_stale?(bread) IMPL make?(toast)
-11,"If you're tired, take a nap.",is_stale?(bread) IMPL make?(toast)
-12,"If the music is too loud, turn it down.",is_stale?(bread) IMPL make?(toast)
-13,"If the toast burns, make more.",is_stale?(bread) IMPL make?(toast)
-14,"If you mix blue and yellow, you get green.",is_stale?(bread) IMPL make?(toast)
-15,"If you're excited, share the news.",is_stale?(bread) IMPL make?(toast)
-16,"If you're resourceful, find solutions.",is_stale?(bread) IMPL make?(toast)
-17,"If the chair squeaks, fix it.",is_stale?(bread) IMPL make?(toast)
-18,"If the milk smells bad, throw it out.",is_stale?(bread) IMPL make?(toast)
-19,"If you're lost, ask for help.",is_stale?(bread) IMPL make?(toast)
-20,"If you're late, apologize.",is_stale?(bread) IMPL make?(toast)
-21,"If the wind blows, close the windows.",is_stale?(bread) IMPL make?(toast)
-22,"If you're lonely, call a friend.",is_stale?(bread) IMPL make?(toast)
-23,"If you want to succeed, work hard.",is_stale?(bread) IMPL make?(toast)
-24,"If the road floods, find another route.",is_stale?(bread) IMPL make?(toast)
-25,"If the snow falls, shovel the path.",is_stale?(bread) IMPL make?(toast)
-26,"If you're productive, manage time.",is_stale?(bread) IMPL make?(toast)
-27,"If you see a shooting star, make a wish.",is_stale?(bread) IMPL make?(toast)
-28,"If you finish first, help others.",is_stale?(bread) IMPL make?(toast)
-29,"If the sweater shrinks, donate it.",is_stale?(bread) IMPL make?(toast)
-30,"If the ice cream melts, put it back.",
-31,"If you're honest, tell the truth.",
-32,"If the bird sings, listen carefully.",
-33,"If you're proud, celebrate.",
-34,"If the storm comes, stay inside.",
-35,"If you're wise, learn from mistakes.",
-36,"If winter comes, spring can't be far behind.",
-37,"If you're careful, avoid mistakes.",
-38,"If you're kind, help others.",
-39,"If the paper tears, tape it.",
-40,"If the food is hot, let it cool.",
-41,"If you're early, wait outside.",
-42,"If you're creative, make something.",
-43,"If you're ready, let's begin.",
-44,"If you're determined, keep trying.",
-45,"If you're reliable, keep promises.",
-46,"If you're happy, smile.",
-47,"If you're confident, take the lead.",
-48,"If the cake is ready, take it out of the oven.",
-49,"If you eat too much sugar, you'll get a toothache.",
-50,"If the door squeaks, oil the hinges.",
-51,"If the dog barks, check who's there.",
-52,"If you're stressed, take deep breaths.",
-53,"If I had more time, I would learn to play piano.",
-54,"If the light bulb burns out, replace it.",
-55,"If the sink leaks, call a plumber.",
-56,"If the leaves fall, rake them.",
-57,"If you're dedicated, work consistently.",
-58,"If the flower wilts, water it.",
-59,"If you're responsible, fulfill duties.",
-60,"If you smell gas, open the windows.",
-61,"If you're energetic, exercise.",
-62,"If the sky is dark, take an umbrella.",
-63,"If the water boils, add the pasta.",
-64,"If you hear thunder, come inside.",
-65,"If you feel sick, stay home.",
-66,"If the baby cries, check on them.",
-67,"If you're lucky, appreciate it.",
-68,"If the plant looks dry, water it.",
-69,"If you're generous, share freely.",
-70,"If you're interested, learn more.",
+1,"If the snow falls, shovel the path.",
+2,"If the light bulb burns out, replace it.",
+3,"If the bird sings, listen carefully.",
+4,"If the package arrives, sign for it.",
+5,"If you're dedicated, work consistently.",
+6,"If you're brave, face fears.",
+7,"If the dish breaks, sweep it up.",
+8,"If the rain stops, go outside.",
+9,"If the cake is ready, take it out of the oven.",
+10,"If you need directions, use a map.",
+11,"If we hurry, we won't be late.",
+12,"If the toast burns, make more.",
+13,"If the fish smells fresh, buy it.",
+14,"If you're ready, let's begin.",
+15,"If you're scared, hold my hand.",
+16,"If you're thirsty, drink water.",
+17,"If you're sincere, mean what you say.",
+18,"If you're sleepy, go to bed.",
+19,"If it's midnight, go to sleep.",
+20,"If the mirror fogs, wipe it clean.",
+21,"If you heat water to 100°C, it boils.",
+22,"If it snows, schools might close.",
+23,"If you hear thunder, come inside.",
+24,"If you're creative, make something.",
+25,"If you're proud, celebrate.",
+26,"If you finish first, help others.",
+27,"If you're punctual, arrive early.",
+28,"If the wind blows, close the windows.",
+29,"If the train is delayed, be patient.",
+30,"If you see a shooting star, make a wish.",
+31,"If the tea is bitter, add sugar.",
+32,"If you're busy, focus on priorities.",
+33,"If you're cold, put on a sweater.",
+34,"If you make a mistake, learn from it.",
+35,"If the fruit ripens, eat it soon.",
+36,"If you're kind, help others.",
+37,"If you're responsible, fulfill duties.",
+38,"If you're stuck, ask for guidance.",
+39,"If the paint is wet, don't touch it.",
+40,"If you're wrong, admit it.",
+41,"If you're lost, ask for help.",
+42,"If you're stressed, take deep breaths.",
+43,"If the weather is nice, let's go hiking.",
+44,"If you're organized, make lists.",
+45,"If the soup boils, lower the heat.",
+46,"If you're running late, call ahead.",
+47,"If I had more time, I would learn to play piano.",
+48,"If you smell gas, open the windows.",
+49,"If the flower wilts, water it.",
+50,"If the storm comes, stay inside.",
+51,"If I were you, I'd take that job offer.",
+52,"If you're respectful, listen well.",
+53,"If the computer crashes, restart it.",
+54,"If you're tired, take a nap.",
+55,"If the baby cries, check on them.",
+56,"If the sun sets, the temperature drops.",
+57,"If the paper tears, tape it.",
+58,"If you're wise, learn from mistakes.",
+59,"If you're motivated, start now.",
+60,"If the pencil breaks, sharpen it.",
+61,"If we work together, we can finish faster.",
+62,"If the bread is stale, make toast.",
+63,"If I had wings, I would fly.",
+64,"If it's sunny, let's have a picnic.",
+65,"If my dog hears a noise, he always barks.",
+66,"If you're focused, concentrate.",
+67,"If you're energetic, exercise.",
+68,"If she arrives early, we can start the meeting sooner.",
+69,"If the milk smells bad, throw it out.",
+70,"If you're honest, tell the truth.",
 71,"If you break something, please tell me.",
-72,"If the door is locked, use your key.",
-73,"If you're confused, ask questions.",
-74,"If the pencil breaks, sharpen it.",
-75,"If you're stuck, ask for guidance.",
+72,"If you're determined, keep trying.",
+73,"If the fire alarm sounds, evacuate.",
+74,"If the stars shine, make wishes.",
+75,"If the dog barks, check who's there.",
