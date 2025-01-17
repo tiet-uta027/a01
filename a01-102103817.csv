@@ -3,9 +3,9 @@ S.No.,Statement,Predicate,My answer,,,,,
 2,"If you are productive, manage time.","is_productive?(you) → manages?(time, you)","is_productive?(you) IMPL manages?(time, you)",,,,TE,∃
 3,"If you heat water to 100 C, it boils","∀ T geq?(temp(water, T), 100) →  boils?(water, T)","FA T geq?(temp(water, T), 100) IMPL  boils?(water, T)",,,,EQ,≡
 4,"If the water boils, add the pasta.","∀ T boils?(water, T) → add?(pasta, water,T)","FA T boils?(water, T) IMPL add?(pasta, water,T)",,,,IMPL,→
-5,,"∀ T geq?(temp(water, T), 100) →  boils?(water, T) → add?(pasta, water,T)","FA T geq?(temp(water, T), 100) IMPL  boils?(water, T) IMPL add?(pasta, water,T)",,,,NOT,¬
-6,,,,,,,OR,∨
-7,,,,,,,AND,∧
+5,"If you heat water to 100 C, it boils","∀ T geq?(temp(water, T), 100) →  boils?(water, T) → add?(pasta, water,T)","FA T geq?(temp(water, T), 100) IMPL  boils?(water, T) IMPL add?(pasta, water,T)",,,,NOT,¬
+6,"If you are focused, concentrate.",is_focused?(you) → concentrating?(you),is_focused?(you) IMPL concentrating?(you),,,,OR,∨
+7,"If my dog hears a noise, he always barks.","pet?(me, dog) ∧ hears?(dog, noise) → barks?(dog)","pet?(me, dog) AND hears?(dog, noise) IMPL barks?(dog)",,,,AND,∧
 8,,,,,,,,
 9,,,,,,,,
 10,,,,,,,,
