@@ -1,0 +1,76 @@
+S.No.,Statement,Predicate
+1,"If you're inspired, take action.",∀ X inspired?(X) → take_action?(X)
+2,"If the tea is bitter, add sugar.","∀ X bitter?(tea) → add?(X, sugar)"
+3,"If the soup boils, lower the heat.",∀ X boils?(soup) → lower_heat?(X)
+4,"If you're respectful, listen well.",∀ X respectful?(X) → listen_well?(X)
+5,"If you're proud, celebrate.",∀ X proud?(X) → celebrate?(X)
+6,"If you're punctual, arrive early.",∀ X punctual?(X) → arrive_early?(X)
+7,"If you find my keys, let me know.","∀ X find?(X, keys) → let_know?(X, me)"
+8,"If you're sleepy, go to bed.",∀ X sleepy?(X) → go_to_bed?(X)
+9,"If you're energetic, exercise.",∀ X energetic?(X) → exercise?(X)
+10,"If the fruit ripens, eat it soon.","∀ X ripens?(fruit) → eat_soon?(X, fruit)"
+11,"If you need help, just ask me.","∀ X need_help?(X) → ask?(X, me)"
+12,"If the room is messy, clean it.","∀ X messy?(room) → clean?(X, room)"
+13,"If the music is too loud, turn it down.","∀ X too_loud?(music) → turn_down?(X, music)"
+14,"If the road floods, find another route.",∀ X floods?(road) → find_route?(X)
+15,"If you're tired, take a nap.",∀ X tired?(X) → take_a_nap?(X)
+16,"If you're reliable, keep promises.",∀ X reliable?(X) → keep_promises?(X)
+17,"If the flower wilts, water it.","∀ X wilts?(flower) → water?(X, flower)"
+18,"If the bird sings, listen carefully.","∀ X sings?(bird) → listen_carefully?(X, bird)"
+19,"If you're responsible, fulfill duties.",∀ X responsible?(X) → fulfill_duties?(X)
+20,"If the sink leaks, call a plumber.","∀ X leaks?(sink) → call?(X, plumber)"
+21,"If the garden grows, share produce.","∀ X grows?(garden) → share_produce?(X, garden)"
+22,"If the power goes out, use candles.","∀ X power_out?(power) → use?(X, candles)"
+23,"If you're worried, talk to someone.","∀ X worried?(X) → talk?(X, someone)"
+24,"If the rain stops, go outside.",∀ X stops?(rain) → go_outside?(X)
+25,"If the car won't start, call a mechanic.","∀ X wont_start?(car) → call?(X, mechanic)"
+26,"If you practice daily, you'll improve quickly.",∀ X practice_daily?(X) → improve_quickly?(X)
+27,"If the weather is nice, let's go hiking.",∀ X nice?(weather) → go_hiking?(X)
+28,"If you're late, apologize.",∀ X late?(X) → apologize?(X)
+29,"If my dog hears a noise, he always barks.","∀ X hears?(dog, noise) → barks?(dog)"
+30,"If you're cold, put on a sweater.","∀ X cold?(X) → put_on?(X, sweater)"
+31,"If I win the lottery, I'll travel the world.","win?(me, lottery) → travel?(me, world)"
+32,"If it snows, schools might close.",snows? → close?(schools)
+33,"If you see a shooting star, make a wish.","∀ X see?(X, shooting_star) → make_wish?(X)"
+34,"If you're careful, avoid mistakes.",∀ X careful?(X) → avoid_mistakes?(X)
+35,"If the shoes fit, buy them.","∀ X fit?(shoes) → buy?(X, shoes)"
+36,"If you're busy, focus on priorities.",∀ X busy?(X) → focus_on_priorities?(X)
+37,"If the computer crashes, restart it.","∀ X crashes?(computer) → restart?(X, computer)"
+38,"If you're resourceful, find solutions.",∀ X resourceful?(X) → find_solutions?(X)
+39,"If the sun sets, the temperature drops.",sets?(sun) → drops?(temperature)
+40,"If the window breaks, cover it.","∀ X breaks?(window) → cover?(X, window)"
+41,"If the door squeaks, oil the hinges.",∀ X squeaks?(door) → oil?(hinges)
+42,"If you need directions, use a map.","∀ X need_directions?(X) → use?(X, map)"
+43,"If you study hard, you'll pass the test.","∀ X study_hard?(X) → pass?(X, test)"
+44,"If you're focused, concentrate.",∀ X focused?(X) → concentrate?(X)
+45,"If you're excited, share the news.",∀ X excited?(X) → share_news?(X)
+46,"If she arrives early, we can start the meeting sooner.",∀ X arrives_early?(she) → start_meeting_sooner?(we)
+47,"If the toast burns, make more.","∀ X burns?(toast) → make_more?(X, toast)"
+48,"If you're creative, make something.","∀ X creative?(X) → make?(X, something)"
+49,"If the snow melts, watch for floods.",melts?(snow) → watch_for?(floods)
+50,"If the leaves fall, rake them.","∀ X fall?(leaves) → rake?(X, leaves)"
+51,"If you see Sarah, tell her I said hello.","∀ X see?(X, Sarah) → tell?(X, Sarah, hello_from_me)"
+52,"If you're lost, ask for help.",∀ X lost?(X) → ask_for_help?(X)
+53,"If the pencil breaks, sharpen it.","∀ X breaks?(pencil) → sharpen?(X, pencil)"
+54,"If you're determined, keep trying.",∀ X determined?(X) → keep_trying?(X)
+55,"If you're wise, learn from mistakes.",∀ X wise?(X) → learn_from_mistakes?(X)
+56,"If winter comes, spring can't be far behind.",comes?(winter) → not_far?(spring)
+57,"If you're successful, stay humble.",∀ X successful?(X) → stay_humble?(X)
+58,"If the mail arrives, bring it in.","∀ X arrives?(mail) → bring_in?(X, mail)"
+59,"If the sunset is beautiful, take pictures.","∀ X beautiful?(sunset) → take_pictures?(X, sunset)"
+60,"If the book ends, start another.","∀ X ends?(book) → start?(X, another_book)"
+61,"If the plant looks dry, water it.","∀ X looks_dry?(plant) → water?(X, plant)"
+62,"If the storm comes, stay inside.",comes?(storm) → stay_inside?
+63,"If the water boils, add the pasta.","∀ X boils?(water) → add?(X, pasta)"
+64,"If you're happy, smile.",∀ X happy?(X) → smile?(X)
+65,"If you're kind, help others.","∀ X kind?(X) → help?(X, others)"
+66,"If the snow falls, shovel the path.","∀ X falls?(snow) → shovel?(X, path)"
+67,"If you eat too much sugar, you'll get a toothache.","∀ X eats_too_much?(X, sugar) → toothache?(X)"
+68,"If I had wings, I would fly.","has?(me, wings) → fly?(me)"
+69,"If you're thirsty, drink water.","∀ X thirsty?(X) → drink?(X, water)"
+70,"If the grass is tall, mow it.","∀ X tall?(grass) → mow?(X, grass)"
+71,"If the dish breaks, sweep it up.","∀ X breaks?(dish) → sweep_up?(X, dish)"
+72,"If the chair squeaks, fix it.","∀ X squeaks?(chair) → fix?(X, chair)"
+73,"If you're early, wait outside.","∀ X early?(X) → wait?(X, outside)"
+74,"If we leave now, we'll catch the train.","leave?(us, now) → catch?(us, train)"
+75,"If the battery dies, charge your phone.","∀ X dies?(battery) → charge?(X, phone)"
